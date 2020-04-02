@@ -162,4 +162,6 @@
 - Draw undue attention to an individual's differences (gender, race or ethnicity, etc.) or ask an associate to represent the perspective of an entire group.
 
 © 2020 Red Hat, Inc.  
-[Some rights reserved.](https://creativecommons.org/licenses/by-sa/4.0/)
+[Some rights reserved.](https://creativecommons.org/licenses/by-sa/4.0/)  
+
+Contributions welcome. See [CONTRIBUTING.md](https://github.com/red-hat-people-team/open-management-practices/blob/master/CONTRIBUTING.md)
