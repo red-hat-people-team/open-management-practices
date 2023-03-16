@@ -1,7 +1,7 @@
 # Pokyny pro Otevřený Management
 
 - [Prosazování kutury Red Hatu](#prosazování-kultury-red-hat)
-- Ispirování ke sdílenému záměru
+- [Ispirování ke sdílenému záměru](#inspirování-ke-sdílenému-záměrus)
 - Nábor, rozvoj a odměňování týmu pomocí praktik Red Hat
 - Dosahování výsledků prostřednictvím posílení
 - Činění rozhodnutí otevřeným a včasným způsobem
@@ -33,3 +33,21 @@
  - Používá kulturu jako záminku k neakci. Kultura by měla být vzpomenuta jako počátek konverzace - včetně poskytnutí kontextu proč by některé akce měly být očekávány. 
    Raději než jako konec konverzace.
  - Odrazuje nebo zakazuje týmu používat otevřené komunikační fora jako jsou memo-list nebo chat.
+
+## Inspirování ke sdílenému záměru
+
+**Why: Individuals are inspired to do their best work when they are connected to something bigger than themselves.**
+
+### Open managers do
+
+- Share your team's purpose and be clear on how your team's day-to-day activities support the Red Hat Why, and our mission, vision, and strategy.
+- Help each associate understand how their work contributes to the team, department, and Red Hat.
+- Share context on strategic and organizational messages from senior leaders and describe the impact to your team.
+- Openly address conflicting priorities, lack of alignment, and other tough issues.
+
+### Open managers do not
+
+- Overlook or underestimate people's need to understand "why" in most situations or contribute their thoughts on various topics.
+- Make decisions without considering impact to other teams or the company.
+- Assume associates understand the context and reasons behind important decisions and announcements.
+- Use dismissive phrases such as "because I said so," "you don't need to know," "don't ask me why, just trust me," "you would not understand," "that's above your pay grade."
