@@ -21,4 +21,4 @@ You do not have to comply with the license for elements of the material in the p
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
-[https://creativecommons.org/licenses/by-sa/4.0/legalcode]
+[License](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
