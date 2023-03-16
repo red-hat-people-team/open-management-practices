@@ -1,6 +1,6 @@
 # Pokyny pro Otevřený Management
 
-- [Prosazování kutury Red Hatu](#markdown-header-prosazování-kultury-red-hatu)
+- [Prosazování kutury Red Hatu](#prosazování-kultury-red-hatu)
 - Ispirování ke sdílenému záměru
 - Nábor, rozvoj a odměňování týmu pomocí praktik Red Hat
 - Dosahování výsledků prostřednictvím posílení
